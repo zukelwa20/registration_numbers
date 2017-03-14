@@ -1,10 +1,29 @@
-#Heading {
+ #Heading {
   width: 300px;
      height: 100px
-     padding: 50px;
      border: 5px solid black;
      box-sizing: border-box;
      font-size: 30px;
      background-color: yellow;
-     border-radius: 30px 40px 40px 30px;
+     border-radius: 600px;
+}
+
+#inpBox {
+  border: 5px solid black;
+  box-sizing: border-box;
+  font-size:30px;
+  background-color: yellow;
+  text-shadow: center;
+
+}
+li {
+  list-style-type: none;
+  width: 200px;
+  height: 100;
+  border: 5px solid black;
+  box-sizing: border-box;
+  font-size: 20px;
+  background-color: yellow;
+  border-radius: 600px;
+  margin-bottom: 10px;
 }
