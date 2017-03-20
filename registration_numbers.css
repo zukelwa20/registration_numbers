@@ -27,3 +27,6 @@ li {
   border-radius: 600px;
   margin-bottom: 10px;
 }
+.hidden {
+  display:none;
+}
